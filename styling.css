@@ -1,0 +1,68 @@
+body{
+    background-color: aliceblue;
+}
+.main-container{
+    background-image: url(./WhatsApp\ Image\ 2024-07-10\ at\ 21.23.58.jpeg);
+    background-repeat: no-repeat;
+    width: 95%;
+    margin-left: 100px;
+}
+#welcome{
+    margin-left: -700px;
+    font-size: 50px;
+    padding-top: 200px;
+    color: white;
+}
+.form{
+    width: 40%;
+    height: 600px;
+  
+border-radius: 3px;
+align-items: center;
+
+background-color: beige;
+
+position: relative;
+margin-left: 500px;
+margin-top: -366px;
+ 
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+    margin: 50px;
+}
+
+input{
+    margin: 20px;
+    padding: 15px;
+    width: 300px;
+}
+div{
+    margin-left: 20px;
+}
+label{
+    font-size: larger;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.radio-type{
+    margin-left: -100px;
+}
+p{
+    position: relative;
+    margin-top: -35px;
+    margin-left: 70px;
+}
+#forget-password{
+    margin-left: 250px;
+}
+button{
+    width: 300px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 30px;
+    background-color: blueviolet;
+    color: white;
+    font-size: large;
+}
